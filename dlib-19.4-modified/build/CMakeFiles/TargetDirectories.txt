@@ -1,0 +1,14 @@
+/home/mike/Work/blindpeerreview/dlib-19.4-modified/build/CMakeFiles/install.dir
+/home/mike/Work/blindpeerreview/dlib-19.4-modified/build/CMakeFiles/list_install_components.dir
+/home/mike/Work/blindpeerreview/dlib-19.4-modified/build/CMakeFiles/install/strip.dir
+/home/mike/Work/blindpeerreview/dlib-19.4-modified/build/CMakeFiles/install/local.dir
+/home/mike/Work/blindpeerreview/dlib-19.4-modified/build/CMakeFiles/rebuild_cache.dir
+/home/mike/Work/blindpeerreview/dlib-19.4-modified/build/CMakeFiles/edit_cache.dir
+/home/mike/Work/blindpeerreview/dlib-19.4-modified/build/dlib/CMakeFiles/rebuild_cache.dir
+/home/mike/Work/blindpeerreview/dlib-19.4-modified/build/dlib/CMakeFiles/edit_cache.dir
+/home/mike/Work/blindpeerreview/dlib-19.4-modified/build/dlib/CMakeFiles/install.dir
+/home/mike/Work/blindpeerreview/dlib-19.4-modified/build/dlib/CMakeFiles/list_install_components.dir
+/home/mike/Work/blindpeerreview/dlib-19.4-modified/build/dlib/CMakeFiles/dlib.dir
+/home/mike/Work/blindpeerreview/dlib-19.4-modified/build/dlib/CMakeFiles/dlib_shared.dir
+/home/mike/Work/blindpeerreview/dlib-19.4-modified/build/dlib/CMakeFiles/install/local.dir
+/home/mike/Work/blindpeerreview/dlib-19.4-modified/build/dlib/CMakeFiles/install/strip.dir

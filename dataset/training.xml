@@ -1,0 +1,344 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+    <image file="./images/SPQR_Upper_225.png">
+    <box top="175" left="442" width="138" height="200">
+      <label>robot</label>
+    </box>
+    <box top="114" left="-4" width="186" height="330">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/frame_0003_1493146969.png">
+    <box top="59" left="126" width="60" height="88">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/amy_20150326_default_155.png">
+    <box top="42" left="163" width="47" height="60">
+      <label>robot</label>
+    </box>
+    <box top="5" left="269" width="257" height="442">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/SPQR_Upper_316.png">
+    <box top="141" left="231" width="126" height="204">
+      <label>robot</label>
+    </box>
+    <box top="142" left="463" width="129" height="218">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/test_ball_000.png">
+    <box top="28" left="118" width="62" height="83">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/amy2_20150326_default_203.png">
+    <box top="30" left="380" width="31" height="53">
+      <label>robot</label>
+    </box>
+    <box top="27" left="417" width="35" height="58">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/frame_0003_1493834144.png">
+    <box top="91" left="194" width="53" height="67">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/amy2_20150326_default_237.png">
+    <box top="63" left="356" width="40" height="59">
+      <label>robot</label>
+    </box>
+    <box top="66" left="547" width="91" height="131">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/SPQR_Upper_117.png">
+    <box top="127" left="174" width="77" height="112">
+      <label>robot</label>
+    </box>
+    <box top="128" left="456" width="142" height="261">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/frame_0004_1493834833.png">
+    <box top="122" left="246" width="34" height="51">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/Fullframe_142.png">
+    <box top="42" left="88" width="27" height="37">
+      <label>robot</label>
+    </box>
+    <box top="46" left="127" width="36" height="63">
+      <label>robot</label>
+    </box>
+    <box top="50" left="161" width="65" height="100">
+      <label>robot</label>
+    </box>
+    <box top="50" left="230" width="57" height="75">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/frame_0006_1493834604.png">
+    <box top="112" left="90" width="23" height="37">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/Jan_2017_040.png">
+    <box top="66" left="235" width="39" height="59">
+      <label>robot</label>
+    </box>
+    <box top="62" left="168" width="35" height="62">
+      <label>robot</label>
+    </box>
+    <box top="60" left="97" width="41" height="62">
+      <label>robot</label>
+    </box>
+    <box top="60" left="40" width="46" height="58">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/test_blackJ_016.png">
+    <box top="63" left="37" width="68" height="99">
+      <label>robot</label>
+    </box>
+    <box top="64" left="196" width="31" height="49">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/frame_0014_1493834833.png">
+    <box top="115" left="105" width="42" height="64">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/frame_0006_1493834833.png">
+    <box top="122" left="158" width="37" height="50">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/SPQR_Upper_365.png">
+    <box top="163" left="215" width="87" height="167">
+      <label>robot</label>
+    </box>
+    <box top="158" left="408" width="80" height="139">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/amy2_20150326_default_239.png">
+    <box top="33" left="319" width="41" height="63">
+      <label>robot</label>
+    </box>
+    <box top="34" left="469" width="91" height="134">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/frame_0007_1493146969.png">
+    <box top="88" left="116" width="41" height="56">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/alex_20150305_default_136.png">
+    <box top="54" left="430" width="108" height="184">
+      <label>robot</label>
+    </box>
+    <box top="62" left="255" width="61" height="98">
+      <label>robot</label>
+    </box>
+    <box top="63" left="70" width="45" height="80">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/amy_20150305_default_170.png">
+    <box top="67" left="459" width="65" height="140">
+      <label>robot</label>
+    </box>
+    <box top="54" left="143" width="57" height="96">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/amy2_20150326_default_220.png">
+    <box top="12" left="361" width="71" height="143">
+      <label>robot</label>
+    </box>
+    <box top="6" left="235" width="51" height="87">
+      <label>robot</label>
+    </box>
+    <box top="-3" left="85" width="71" height="91">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/SPQR_Upper_153.png">
+    <box top="104" left="490" width="76" height="131">
+      <label>robot</label>
+    </box>
+    <box top="108" left="245" width="51" height="81">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/frame_0002_1493834144.png">
+    <box top="79" left="150" width="59" height="73">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/SPQR_Upper_356.png">
+    <box top="123" left="56" width="79" height="135">
+      <label>robot</label>
+    </box>
+    <box top="114" left="183" width="156" height="257">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/SPQR_Upper_210.png">
+    <box top="177" left="381" width="110" height="203">
+      <label>robot</label>
+    </box>
+    <box top="143" left="65" width="77" height="111">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/Fullframe_99.png">
+    <box top="41" left="49" width="92" height="171">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/test_blackJ_000.png">
+    <box top="91" left="59" width="44" height="57">
+      <label>robot</label>
+    </box>
+    <box top="93" left="180" width="45" height="61">
+      <label>robot</label>
+    </box>
+    <box top="94" left="226" width="32" height="50">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/test_blackJ_009.png">
+    <box top="91" left="64" width="44" height="62">
+      <label>robot</label>
+    </box>
+    <box top="88" left="221" width="40" height="60">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/amy2_20150326_default_245.png">
+    <box top="32" left="363" width="44" height="67">
+      <label>robot</label>
+    </box>
+    <box top="34" left="475" width="76" height="144">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/frame_0000_1493146969.png">
+    <box top="94" left="125" width="38" height="65">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/frame_0006_1493834144.png">
+    <box top="105" left="113" width="29" height="42">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/test_blackJ_051.png">
+    <box top="48" left="26" width="84" height="111">
+      <label>robot</label>
+    </box>
+    <box top="35" left="141" width="45" height="60">
+      <label>robot</label>
+    </box>
+    <box top="9" left="255" width="66" height="97">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/amy2_20150326_default_020.png">
+    <box top="2" left="397" width="228" height="336">
+      <label>robot</label>
+    </box>
+    <box top="13" left="276" width="78" height="117">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/amy2_20150326_default_231.png">
+    <box top="27" left="418" width="69" height="114">
+      <label>robot</label>
+    </box>
+    <box top="24" left="260" width="34" height="52">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/amy2_20150326_default_247.png">
+    <box top="34" left="326" width="39" height="61">
+      <label>robot</label>
+    </box>
+    <box top="33" left="412" width="99" height="139">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/frame_0016_1493834833.png">
+    <box top="115" left="71" width="28" height="43">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/test_blackJ_027.png">
+    <box top="67" left="215" width="65" height="100">
+      <label>robot</label>
+    </box>
+    <box top="58" left="99" width="51" height="70">
+      <label>robot</label>
+    </box>
+    <box top="42" left="-4" width="73" height="96">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/bernadette_20150617_default_216.png">
+    <box top="129" left="388" width="65" height="131">
+      <label>robot</label>
+    </box>
+    <box top="118" left="486" width="82" height="165">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/frame_0002_1493146969.png">
+    <box top="123" left="137" width="52" height="74">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/SPQR_Upper_391.png">
+    <box top="199" left="232" width="86" height="222">
+      <label>robot</label>
+    </box>
+    <box top="199" left="308" width="80" height="148">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/Fullframe_73.png">
+    <box top="72" left="121" width="33" height="67">
+      <label>robot</label>
+    </box>
+    <box top="74" left="187" width="41" height="87">
+      <label>robot</label>
+    </box>
+    <box top="70" left="161" width="23" height="35">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/test_blackJ_014.png">
+    <box top="59" left="123" width="30" height="48">
+      <label>robot</label>
+    </box>
+    <box top="63" left="238" width="30" height="43">
+      <label>robot</label>
+    </box>
+    <box top="72" left="269" width="23" height="37">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/test_blackJ_043.png">
+    <box top="118" left="23" width="47" height="61">
+      <label>robot</label>
+    </box>
+    <box top="119" left="85" width="44" height="52">
+      <label>robot</label>
+    </box>
+    <box top="91" left="176" width="82" height="122">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/alex_20150305_default_092.png">
+    <box top="79" left="380" width="72" height="100">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/SPQR_Upper_130.png">
+    <box top="127" left="143" width="70" height="104">
+      <label>robot</label>
+    </box>
+    <box top="120" left="418" width="104" height="204">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/Jan_2017_039.png">
+    <box top="82" left="143" width="68" height="108">
+      <label>robot</label>
+    </box>
+    <box top="83" left="222" width="51" height="87">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/test_blackJ_004.png">
+    <box top="35" left="232" width="66" height="88">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/amy2_20150326_default_243.png">
+    <box top="28" left="417" width="71" height="146">
+      <label>robot</label>
+    </box>
+    <box top="31" left="293" width="46" height="62">
+      <label>robot</label>
+    </box>
+  </image><image file="./images/frame_0005_1493834833.png">
+    <box top="107" left="115" width="44" height="64">
+      <label>robot</label>
+    </box>
+  </image>
+</images>
+</dataset>
