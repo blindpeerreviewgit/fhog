@@ -1,3 +1,0 @@
-/home/mike/Work/blindpeerreview/build/CMakeFiles/rebuild_cache.dir
-/home/mike/Work/blindpeerreview/build/CMakeFiles/edit_cache.dir
-/home/mike/Work/blindpeerreview/build/CMakeFiles/learnRobot.dir
